@@ -1,24 +1,27 @@
-
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Post-Secondary Opportunities: Blog</title>
+        <title>Post-Secondary Opportunites: Blog</title>
     </head>
     <body>
         
-        <h1>Patrick Soukbandith's blog</h1>
-og
-        <h3>Contents</h3>
+        <h1> Patrick's Post-Secondary Opportunities Blog</h1>
+
+        <h3>Interview Questions</h3>
         <ul>
-            <li>First post!</li>
+            <li>What is your profession?
+            </li>
+            <li>How has computer science influence your career?</li>
+            <li>Did you take computer science in school?</li>
+            <li>How does computer science affect your career right now?</li>
+            
         </ul>
         
-        <h2>First post</h2>
-        <h6>Posted on some date in some year</h6>
-        
+        <h2>Reflection on Interview</h2>
+
         <p>Something excited happened.</p>
-        
+        <h2>Personal Reflection</h2>
         
     </body>
 </html>
